@@ -21,7 +21,7 @@ microservices:
         uri: http://order-service/order/save
 
 
-testvariable: hi_prod235676575657657653434343434343443434
+testvariable: hi_prod2
 
 
 
