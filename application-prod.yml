@@ -21,7 +21,7 @@ microservices:
         uri: http://order-service/order/save
 
 
-testvariable: hi_prod567675675454566%%%%%%%%%%
+testvariable: hi_prod56767567545456===
 
 
 
